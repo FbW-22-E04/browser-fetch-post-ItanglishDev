@@ -79,6 +79,7 @@ form.addEventListener('submit', (e) => {
     }
 
   }
+
   sendData()
   e.preventDefault()
 })
